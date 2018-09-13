@@ -1,6 +1,6 @@
 # synccross
-## LSDj sync/mGB 4 port adapter
-LSDj sync/mGB 4 MGB/CGB port type adapter, for DMG/MGB/GBC link cables only (Game Boy second generation). 
+## LSDj sync/mGB/Nanoloop 4 port adapter
+LSDj sync/mGB/Nanoloop 4 MGB/CGB port type adapter, for DMG/MGB/GBC link cables only (Game Boy second generation). 
 
 ![alt synccross](https://github.com/Lesbinary/synccross/blob/master/images/synccross.png)
 
