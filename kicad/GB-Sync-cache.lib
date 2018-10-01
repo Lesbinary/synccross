@@ -1,11 +1,11 @@
-EESchema-LIBRARY Version 2.3
+EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# GBC_link_edge_connector
+# sync:GBC_link_edge_connector
 #
-DEF GBC_link_edge_connector conn 0 40 Y Y 1 F N
+DEF sync:GBC_link_edge_connector conn 0 40 Y Y 1 F N
 F0 "conn" -950 -150 60 V V C CNN
-F1 "GBC_link_edge_connector" -800 -150 60 V V C CNN
+F1 "sync:GBC_link_edge_connector" -800 -150 60 V V C CNN
 F2 "" 150 -1250 60 H V C CNN
 F3 "" 150 -1250 60 H V C CNN
 DRAW
