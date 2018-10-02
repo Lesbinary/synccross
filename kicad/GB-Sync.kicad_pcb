@@ -496,7 +496,7 @@
   (segment (start 153.892 102.902) (end 153.142 102.152) (width 0.25) (layer F.Cu) (net 6) (status 10))
   (segment (start 153.797 104.902) (end 153.797 102.902) (width 0.25) (layer F.Cu) (net 6) (status 30))
   (segment (start 157.6832 96.7044) (end 153.8732 96.7044) (width 0.25) (layer F.Cu) (net 6) (status 10))
-  (segment (start 144.145 101.092) (end 146.145 101.092) (width 0.25) (layer F.Cu) (net 6) (status 30))
+  (segment (start 144.145 100.711) (end 146.145 100.711) (width 0.25) (layer F.Cu) (net 6) (status 30))
   (segment (start 157.6832 96.7044) (end 155.6832 96.7044) (width 0.25) (layer F.Cu) (net 6) (status 30))
   (segment (start 149.86 102.743) (end 149.86 104.635391) (width 0.25) (layer B.Cu) (net 9) (status 30))
   (segment (start 149.7076 104.838) (end 149.7716 104.902) (width 0.25) (layer B.Cu) (net 9) (status 30))
