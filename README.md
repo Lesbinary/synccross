@@ -1,8 +1,9 @@
 # synccross
 ## LSDj sync 4 port adapter
-LSDj sync 4 MGB/CGB port type adapter, for DMG/MGB/GBC link cables only (Game Boy second generation).
+LSDj sync/keyboard/MIDI Out, mGB and Nanoloop Sync 4 MGB/CGB port type adapter, for DMG/MGB/GBC link cables only (Game Boy second generation port type).
 
-NOTE: It does not connect all pins, so mGB, LSDJ keyboard mode, LSDJ MIDI Out and Nanoloop sync don't not work.
+Tested with LSDj, mGB and Nanoloop in all different Game Boy, Super Game Boy, Game Boy Player, Arduinoboy and Teensyboy models.
+
 
 ![alt synccross](https://github.com/lpla/synccross/blob/master/images/synccross.png)
 
