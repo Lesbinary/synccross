@@ -4,6 +4,9 @@ LSDj sync/keyboard/MIDI Out, mGB and Nanoloop Sync 4 MGB/CGB port type adapter, 
 
 Tested with LSDj, mGB and Nanoloop in all different Game Boy, Super Game Boy, Game Boy Player, Arduinoboy and Teensyboy models.
 
+![alt synccross](https://github.com/lpla/synccross/blob/master/images/synccross.png)
+
+
 ### Notes
 
 Some LSDj modes work regardless of the port of `synccross` but for complete compatibility, always connect the Master/Lead/Input port in the upper port of `synccross`.
@@ -11,9 +14,8 @@ Some LSDj modes work regardless of the port of `synccross` but for complete comp
 Please, connect the link cables facing the 'two point' side up. The upper side of `synccross` is the one with `SNCRS` written on it.
 
 
-![alt synccross](https://github.com/lpla/synccross/blob/master/images/synccross.png)
 
-How to order:
+### How to order
 
 I'm using OSH Park for this example, as they support Kicad pcb files straight:
 
