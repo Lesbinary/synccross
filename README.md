@@ -19,7 +19,11 @@ Please, connect the link cables facing the 'two point' side up. The upper side o
 
 ### How to order
 
-I'm using OSH Park for this example, as they support Kicad pcb files straight:
+I'm using OSH Park, as they support Kicad pcb files straight, but any other service compatible with these files should work.
+
+You can directly order it without uploading any model using this link: https://oshpark.com/shared_projects/tU7dDyJb
+
+Otherwise, if you want to upload the model manually, then:
 
 Go to OSH park website -> browse for files
 
