@@ -11,7 +11,9 @@ Tested with LSDj, mGB and Nanoloop in many different flashcarts (Everdrive, EMS 
 
 Some LSDj modes work regardless of the port of `synccross` but for complete compatibility, always connect the Master/Lead/Input port in the upper port of `synccross`.
 
-Please, connect the link cables facing the 'two point' side up. The upper side of `synccross` is the one with `SNCRS` written on it.
+Please, connect the link cables facing the 'two point' side up. The upper side of `synccross` is the one with `SNCRS` written on it:
+
+![alt synccross](https://github.com/lpla/synccross/blob/master/images/sncrs.jpg)
 
 
 
